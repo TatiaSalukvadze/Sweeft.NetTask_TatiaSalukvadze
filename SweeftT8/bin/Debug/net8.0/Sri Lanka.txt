@@ -1,0 +1,6 @@
+Country: Sri Lanka
+Region: Asia
+Subregion: Southern Asia
+Latlng: 7, 81
+Area: 65610
+Population: 21919000

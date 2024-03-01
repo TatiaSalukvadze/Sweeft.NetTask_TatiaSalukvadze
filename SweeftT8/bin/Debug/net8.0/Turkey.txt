@@ -1,0 +1,6 @@
+Country: Turkey
+Region: Asia
+Subregion: Western Asia
+Latlng: 39, 35
+Area: 783562
+Population: 84339067

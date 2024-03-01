@@ -1,0 +1,6 @@
+Country: Saudi Arabia
+Region: Asia
+Subregion: Western Asia
+Latlng: 25, 45
+Area: 2149690
+Population: 34813867
